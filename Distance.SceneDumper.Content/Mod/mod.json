@@ -1,15 +1,14 @@
 ﻿{
-  "FriendlyName": "Scene Dumper",
-  "Description": "Development utilities mod (Centrifuge.DevTools for Distance).",
-  "Author": "Ciastex",
-  "Contact": "Discord: Ciastex#6170",
-  "Porter": "Reherc",
-  "PorterContact": "Github: @REHERC",
-  "ModuleFileName": "Distance.SceneDumper.dll",
-  "Priority": 10,
-  "SkipLoad": false,
-  "Dependencies": [],
-  "RequiredGSLs": [
-	"com.github.reherc/Centrifuge.Distance"
-  ]
+	"FriendlyName": "Scene Dumper",
+	"Description": "Development utilities mod (Centrifuge.DevTools for Distance).",
+	"Author": "Ciastex",
+	"Contact": "Discord: Ciastex#6170",
+	"Porter": "Reherc",
+	"PorterContact": "Github: @REHERC",
+	"ModuleFileName": "Distance.SceneDumper.dll",
+	"RequiredGSLs": [
+		"com.github.reherc/Centrifuge.Distance"
+	],
+	"SkipLoad": false,
+	"Priority": 10
 }
